@@ -1,5 +1,5 @@
 # 👋 Hi there, I'm BandiSatish  
-### 🎯 Data Scientist | Machine Learning Enthusiast | Data Storyteller
+### 🎯 Aspiring Data Scientist| Machine Learning Enthusiast | Data Storyteller
 ## 🎓Education
 I hold a degree in Bachelor of Technology(Computer Science & Engineering) from CMR Technical Campus ,where my journey - ignited a passion for solving problems and I love building data-driven solutions, exploring AI/ML technologies, and turning complex problems into smart solutions..
 
